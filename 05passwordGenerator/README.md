@@ -18,7 +18,7 @@ A simple, secure, and customizable password generator built using **React** and 
 - [React](https://reactjs.org/)
 - [Vite](https://vitejs.dev/)
 - JavaScript (or TypeScript if you're using it)
-- CSS / Tailwind / any styling method you prefer
+- CSS / Tailwind 
 
 ## 🚀 Getting Started
 
